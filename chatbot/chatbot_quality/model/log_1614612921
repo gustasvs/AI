@@ -1,0 +1,21 @@
+# log_file=model/log_1614612921
+# Start step 39101, lr 0.001, Mon Mar  1 17:35:25 2021
+  step 39201 lr 0.001 step-time 0.91s wps 1.02K ppl 14.09 gN 7.39 bleu 15.90, Mon Mar  1 17:36:56 2021
+  step 39301 lr 0.001 step-time 0.79s wps 1.17K ppl 14.65 gN 7.61 bleu 15.90, Mon Mar  1 17:38:15 2021
+  step 39401 lr 0.001 step-time 0.82s wps 1.13K ppl 14.87 gN 7.73 bleu 15.90, Mon Mar  1 17:39:37 2021
+  step 39501 lr 0.001 step-time 0.79s wps 1.18K ppl 15.26 gN 7.68 bleu 15.90, Mon Mar  1 17:40:56 2021
+  step 39601 lr 0.001 step-time 0.87s wps 1.09K ppl 15.85 gN 7.93 bleu 15.90, Mon Mar  1 17:42:23 2021
+  step 39701 lr 0.001 step-time 0.81s wps 1.16K ppl 15.96 gN 7.79 bleu 15.90, Mon Mar  1 17:43:44 2021
+  step 39801 lr 0.001 step-time 0.81s wps 1.15K ppl 16.33 gN 7.81 bleu 15.90, Mon Mar  1 17:45:05 2021
+  step 39901 lr 0.001 step-time 0.80s wps 1.16K ppl 16.61 gN 7.70 bleu 15.90, Mon Mar  1 17:46:25 2021
+  step 40001 lr 0.001 step-time 0.85s wps 1.11K ppl 17.31 gN 7.72 bleu 15.90, Mon Mar  1 17:47:51 2021
+  step 40101 lr 0.001 step-time 0.80s wps 1.17K ppl 17.23 gN 7.77 bleu 15.90, Mon Mar  1 17:49:11 2021
+  step 40201 lr 0.001 step-time 0.83s wps 1.13K ppl 17.64 gN 7.69 bleu 15.90, Mon Mar  1 17:50:40 2021
+  step 40301 lr 0.001 step-time 0.80s wps 1.16K ppl 17.96 gN 7.65 bleu 15.90, Mon Mar  1 17:52:00 2021
+  step 40401 lr 0.001 step-time 0.82s wps 1.13K ppl 17.99 gN 7.65 bleu 15.90, Mon Mar  1 17:53:22 2021
+  step 40501 lr 0.001 step-time 0.84s wps 1.11K ppl 18.67 gN 7.81 bleu 15.90, Mon Mar  1 17:54:47 2021
+  step 40601 lr 0.001 step-time 0.83s wps 1.13K ppl 18.61 gN 7.69 bleu 15.90, Mon Mar  1 17:56:09 2021
+  step 40701 lr 0.001 step-time 0.82s wps 1.14K ppl 18.73 gN 7.66 bleu 15.90, Mon Mar  1 17:57:31 2021
+  step 40801 lr 0.001 step-time 0.87s wps 1.09K ppl 19.29 gN 7.79 bleu 15.90, Mon Mar  1 17:58:58 2021
+  step 40901 lr 0.001 step-time 0.79s wps 1.18K ppl 19.00 gN 7.66 bleu 15.90, Mon Mar  1 18:00:18 2021
+  step 41001 lr 0.001 step-time 0.80s wps 1.18K ppl 19.37 gN 7.66 bleu 15.90, Mon Mar  1 18:01:37 2021

@@ -1,0 +1,22 @@
+# log_file=model/log_1615245437
+# Start step 61651, lr 0.001, Tue Mar  9 01:17:31 2021
+  step 61751 lr 0.001 step-time 0.78s wps 1.20K ppl 6.78 gN 7.63 bleu 15.90, Tue Mar  9 01:18:48 2021
+  step 61851 lr 0.001 step-time 0.66s wps 1.41K ppl 6.55 gN 7.95 bleu 15.90, Tue Mar  9 01:19:54 2021
+  step 61951 lr 0.001 step-time 0.67s wps 1.39K ppl 6.57 gN 8.15 bleu 15.90, Tue Mar  9 01:21:01 2021
+  step 62051 lr 0.001 step-time 0.67s wps 1.40K ppl 6.94 gN 8.30 bleu 15.90, Tue Mar  9 01:22:08 2021
+  step 62151 lr 0.001 step-time 0.67s wps 1.40K ppl 6.80 gN 8.19 bleu 15.90, Tue Mar  9 01:23:15 2021
+  step 62251 lr 0.001 step-time 0.66s wps 1.40K ppl 6.97 gN 8.29 bleu 15.90, Tue Mar  9 01:24:21 2021
+  step 62351 lr 0.001 step-time 0.67s wps 1.40K ppl 7.18 gN 8.34 bleu 15.90, Tue Mar  9 01:25:28 2021
+  step 62451 lr 0.001 step-time 0.67s wps 1.41K ppl 7.34 gN 8.38 bleu 15.90, Tue Mar  9 01:26:35 2021
+  step 62551 lr 0.001 step-time 0.67s wps 1.40K ppl 7.59 gN 8.46 bleu 15.90, Tue Mar  9 01:27:42 2021
+  step 62651 lr 0.001 step-time 0.66s wps 1.41K ppl 7.45 gN 8.32 bleu 15.90, Tue Mar  9 01:28:48 2021
+  step 62751 lr 0.001 step-time 0.67s wps 1.39K ppl 7.66 gN 8.43 bleu 15.90, Tue Mar  9 01:30:01 2021
+  step 62851 lr 0.001 step-time 0.66s wps 1.41K ppl 7.92 gN 8.36 bleu 15.90, Tue Mar  9 01:31:08 2021
+  step 62951 lr 0.001 step-time 0.68s wps 1.40K ppl 8.50 gN 8.49 bleu 15.90, Tue Mar  9 01:32:15 2021
+  step 63051 lr 0.001 step-time 0.66s wps 1.41K ppl 8.49 gN 8.43 bleu 15.90, Tue Mar  9 01:33:22 2021
+  step 63151 lr 0.001 step-time 0.66s wps 1.40K ppl 8.50 gN 8.29 bleu 15.90, Tue Mar  9 01:34:28 2021
+  step 63251 lr 0.001 step-time 0.67s wps 1.40K ppl 9.13 gN 8.39 bleu 15.90, Tue Mar  9 01:35:35 2021
+  step 63351 lr 0.001 step-time 0.67s wps 1.40K ppl 9.40 gN 8.40 bleu 15.90, Tue Mar  9 01:36:42 2021
+  step 63451 lr 0.001 step-time 0.67s wps 1.41K ppl 10.05 gN 8.49 bleu 15.90, Tue Mar  9 01:37:49 2021
+# Final, step 63539 lr 0.001 step-time 0.67s wps 1.41K ppl 10.05 gN 8.49 dev ppl 15.93, dev bleu 0.0, test ppl 15.93, test bleu 0.0, Tue Mar  9 01:38:57 2021
+# Best bleu, step 24438 lr 0.001 step-time 0.67s wps 1.41K ppl 10.05 gN 8.49 dev ppl 11.98, dev bleu 15.9, test ppl 11.98, test bleu 15.9, Tue Mar  9 01:39:01 2021

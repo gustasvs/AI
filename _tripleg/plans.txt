@@ -1,0 +1,9 @@
+chatbot - atbildes uz visiem jautajumiem, bet bus speciala programma kas atbild un pasaka poiemeeram pulksteni datumu vai kko taadu
+
+piekluve kamerai - sejas atpazīšana, objektu atpazīšana (kaķis vai suns, vai kāda mēbele, un par to uzdot jautaajumu chatbotam)
+
+piekluve mirkafonam - jautājumus var uzdot arī mutiski (vai terminālī, kuru nevar aizvērt :) ), reaģē uz visādām skaņam apkārt.
+
+main funkcija, kura satrures visu auagstāk minēto.
+
+varēs spēlēt spēles uz kurām vins ir uztrenejies (chess, tictactoe, ect ect...)

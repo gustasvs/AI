@@ -1,0 +1,52 @@
+# log_file=model/log_1615521954
+# Start step 122190, lr 0.0003, Fri Mar 12 06:05:59 2021
+  step 122290 lr 0.0003 step-time 0.88s wps 1.05K ppl 4.41 gN 7.45 bleu 20.51, Fri Mar 12 06:07:26 2021
+  step 122390 lr 0.0003 step-time 0.76s wps 1.22K ppl 4.30 gN 7.84 bleu 20.51, Fri Mar 12 06:08:43 2021
+  step 122490 lr 0.0003 step-time 0.76s wps 1.22K ppl 4.30 gN 7.88 bleu 20.51, Fri Mar 12 06:09:59 2021
+  step 122590 lr 0.0003 step-time 0.78s wps 1.21K ppl 4.44 gN 8.02 bleu 20.51, Fri Mar 12 06:11:17 2021
+  step 122690 lr 0.0003 step-time 0.77s wps 1.21K ppl 4.33 gN 7.97 bleu 20.51, Fri Mar 12 06:12:35 2021
+  step 122790 lr 0.0003 step-time 0.77s wps 1.21K ppl 4.27 gN 7.88 bleu 20.51, Fri Mar 12 06:13:51 2021
+  step 122890 lr 0.0003 step-time 0.78s wps 1.20K ppl 4.30 gN 7.98 bleu 20.51, Fri Mar 12 06:15:09 2021
+  step 122990 lr 0.0003 step-time 0.78s wps 1.21K ppl 4.41 gN 8.16 bleu 20.51, Fri Mar 12 06:16:27 2021
+  step 123090 lr 0.0003 step-time 0.78s wps 1.22K ppl 4.56 gN 8.17 bleu 20.51, Fri Mar 12 06:17:44 2021
+  step 123190 lr 0.0003 step-time 0.78s wps 1.21K ppl 4.44 gN 8.02 bleu 20.51, Fri Mar 12 06:19:02 2021
+  step 123290 lr 0.0003 step-time 0.77s wps 1.21K ppl 4.44 gN 8.09 bleu 20.51, Fri Mar 12 06:20:28 2021
+  step 123390 lr 0.0003 step-time 0.76s wps 1.23K ppl 4.54 gN 8.01 bleu 20.51, Fri Mar 12 06:21:44 2021
+  step 123490 lr 0.0003 step-time 0.78s wps 1.21K ppl 4.63 gN 8.17 bleu 20.51, Fri Mar 12 06:23:02 2021
+  step 123590 lr 0.0003 step-time 0.77s wps 1.22K ppl 4.49 gN 8.05 bleu 20.51, Fri Mar 12 06:24:19 2021
+  step 123690 lr 0.0003 step-time 0.77s wps 1.21K ppl 4.60 gN 8.01 bleu 20.51, Fri Mar 12 06:25:36 2021
+  step 123790 lr 0.0003 step-time 0.78s wps 1.21K ppl 4.68 gN 8.11 bleu 20.51, Fri Mar 12 06:26:54 2021
+  step 123890 lr 0.0003 step-time 0.77s wps 1.21K ppl 4.58 gN 7.93 bleu 20.51, Fri Mar 12 06:28:11 2021
+  step 123990 lr 0.0003 step-time 0.77s wps 1.22K ppl 4.66 gN 8.06 bleu 20.51, Fri Mar 12 06:29:29 2021
+  step 124090 lr 0.0003 step-time 0.78s wps 1.19K ppl 4.66 gN 7.95 bleu 20.51, Fri Mar 12 06:30:46 2021
+  step 124190 lr 0.0003 step-time 0.77s wps 1.22K ppl 4.62 gN 8.05 bleu 20.51, Fri Mar 12 06:32:03 2021
+  step 124290 lr 0.0003 step-time 0.78s wps 1.21K ppl 4.86 gN 8.07 bleu 20.51, Fri Mar 12 06:33:28 2021
+  step 124390 lr 0.0003 step-time 0.78s wps 1.21K ppl 4.73 gN 8.07 bleu 20.51, Fri Mar 12 06:34:45 2021
+  step 124490 lr 0.0003 step-time 0.77s wps 1.22K ppl 4.77 gN 8.06 bleu 20.51, Fri Mar 12 06:36:02 2021
+  step 124590 lr 0.0003 step-time 0.77s wps 1.21K ppl 4.92 gN 7.99 bleu 20.51, Fri Mar 12 06:37:19 2021
+  step 124690 lr 0.0003 step-time 0.78s wps 1.22K ppl 5.01 gN 8.10 bleu 20.51, Fri Mar 12 06:38:38 2021
+  step 124790 lr 0.0003 step-time 0.77s wps 1.23K ppl 4.97 gN 8.01 bleu 20.51, Fri Mar 12 06:39:54 2021
+  step 124890 lr 0.0003 step-time 0.78s wps 1.21K ppl 5.08 gN 8.01 bleu 20.51, Fri Mar 12 06:41:12 2021
+  step 124990 lr 0.0003 step-time 0.78s wps 1.20K ppl 5.04 gN 8.02 bleu 20.51, Fri Mar 12 06:42:30 2021
+  step 125090 lr 0.0003 step-time 0.78s wps 1.21K ppl 5.23 gN 8.00 bleu 20.51, Fri Mar 12 06:43:48 2021
+  step 125190 lr 0.0003 step-time 0.77s wps 1.22K ppl 5.09 gN 7.95 bleu 20.51, Fri Mar 12 06:45:05 2021
+  step 125290 lr 0.0003 step-time 0.77s wps 1.22K ppl 5.25 gN 7.98 bleu 20.51, Fri Mar 12 06:46:29 2021
+  step 125390 lr 0.0003 step-time 0.79s wps 1.21K ppl 5.56 gN 8.04 bleu 20.51, Fri Mar 12 06:47:48 2021
+  step 125490 lr 0.0003 step-time 0.78s wps 1.21K ppl 5.41 gN 7.97 bleu 20.51, Fri Mar 12 06:49:05 2021
+  step 125590 lr 0.0003 step-time 0.77s wps 1.22K ppl 5.33 gN 8.01 bleu 20.51, Fri Mar 12 06:50:23 2021
+  step 125690 lr 0.0003 step-time 0.78s wps 1.22K ppl 5.60 gN 8.05 bleu 20.51, Fri Mar 12 06:51:41 2021
+  step 125790 lr 0.0003 step-time 0.77s wps 1.22K ppl 5.46 gN 7.90 bleu 20.51, Fri Mar 12 06:52:58 2021
+  step 125890 lr 0.0003 step-time 0.78s wps 1.21K ppl 5.57 gN 7.88 bleu 20.51, Fri Mar 12 06:54:16 2021
+  step 125990 lr 0.0003 step-time 0.77s wps 1.23K ppl 5.44 gN 7.92 bleu 20.51, Fri Mar 12 06:55:33 2021
+  step 126090 lr 0.0003 step-time 0.78s wps 1.22K ppl 5.68 gN 8.04 bleu 20.51, Fri Mar 12 06:56:51 2021
+  step 126190 lr 0.0003 step-time 0.77s wps 1.22K ppl 5.71 gN 7.84 bleu 20.51, Fri Mar 12 06:58:09 2021
+  step 126290 lr 0.0003 step-time 0.78s wps 1.21K ppl 5.67 gN 7.86 bleu 20.51, Fri Mar 12 06:59:33 2021
+  step 126390 lr 0.0003 step-time 0.78s wps 1.22K ppl 5.74 gN 8.06 bleu 20.51, Fri Mar 12 07:00:52 2021
+  step 126490 lr 0.0003 step-time 0.77s wps 1.22K ppl 5.64 gN 7.84 bleu 20.51, Fri Mar 12 07:02:08 2021
+  step 126590 lr 0.0003 step-time 0.78s wps 1.22K ppl 5.49 gN 7.77 bleu 20.51, Fri Mar 12 07:03:26 2021
+  step 126690 lr 0.0003 step-time 0.77s wps 1.23K ppl 5.69 gN 7.87 bleu 20.51, Fri Mar 12 07:04:43 2021
+  step 126790 lr 0.0003 step-time 0.77s wps 1.23K ppl 5.77 gN 8.02 bleu 20.51, Fri Mar 12 07:06:01 2021
+  step 126890 lr 0.0003 step-time 0.78s wps 1.21K ppl 5.71 gN 7.89 bleu 20.51, Fri Mar 12 07:07:18 2021
+  step 126990 lr 0.0003 step-time 0.77s wps 1.22K ppl 5.73 gN 7.94 bleu 20.51, Fri Mar 12 07:08:35 2021
+# Final, step 127078 lr 0.0003 step-time 0.77s wps 1.22K ppl 5.73 gN 7.94 dev ppl 16.53, dev bleu 19.4, test ppl 16.53, test bleu 19.4, Fri Mar 12 07:09:52 2021
+# Best bleu, step 122190 lr 0.0003 step-time 0.77s wps 1.22K ppl 5.73 gN 7.94 dev ppl 15.96, dev bleu 20.5, test ppl 15.96, test bleu 20.5, Fri Mar 12 07:09:54 2021

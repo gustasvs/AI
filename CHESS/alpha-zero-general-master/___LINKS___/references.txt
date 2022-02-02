@@ -1,0 +1,2 @@
+https://github.com/suragnair/alpha-zero-general
+http://web.stanford.edu/~surag/posts/alphazero.html

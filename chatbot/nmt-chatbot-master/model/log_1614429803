@@ -1,0 +1,4 @@
+# log_file=model/log_1614429803
+# Start step 136853, lr 0.001, Sat Feb 27 14:43:30 2021
+# Final, step 136853 lr 0.001 step-time 0.00s wps 0.00K ppl 0.00 gN 0.00 dev ppl 128.25, dev bleu 0.0, test ppl 128.25, test bleu 0.0, Sat Feb 27 14:43:44 2021
+# Best bleu, step 83202 lr 0.001 step-time 0.00s wps 0.00K ppl 0.00 gN 0.00 dev ppl 131.19, dev bleu 3.6, test ppl 131.19, test bleu 3.6, Sat Feb 27 14:43:48 2021

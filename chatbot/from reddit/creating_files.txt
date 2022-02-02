@@ -1,0 +1,17 @@
+C:\Python123\AI\chatbot>create_data.py
+timeframe - 2014-09 ...
+test done - 0, time - 2020-04-12 16:35:54.818382
+total rows - 100000, time - 2020-04-12 16:36:12.575846
+total rows - 2520000, time - 2020-04-12 17:05:09.021170
+timeframe - 2017-09 ...
+test done - 0, time - 2020-04-12 17:07:27.652767
+total rows - 100000, time - 2020-04-12 17:08:06.699066
+total rows - 3560000, time - 2020-04-12 17:31:00.545752
+timeframe - 2018-09 ...
+test done - 0, time - 2020-04-12 17:36:33.739165
+total rows - 100000, time - 2020-04-12 18:22:43.584179
+total rows - 4790000, time - 2020-04-13 00:58:27.852839
+timeframe - 2019-09 ...
+test done - 0, time - 2020-04-13 00:59:46.112387
+total rows - 100000, time - 2020-04-13 01:00:45.575252
+total rows - 5790000, time - 2020-04-13 02:01:56.183464

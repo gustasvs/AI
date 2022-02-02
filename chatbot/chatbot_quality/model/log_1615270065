@@ -1,0 +1,9 @@
+# log_file=model/log_1615270065
+# Start step 97752, lr 0.001, Tue Mar  9 08:07:50 2021
+  step 97852 lr 0.001 step-time 0.78s wps 1.19K ppl 7.54 gN 8.09 bleu 15.90, Tue Mar  9 08:09:08 2021
+  step 97952 lr 0.001 step-time 0.66s wps 1.41K ppl 7.18 gN 8.39 bleu 15.90, Tue Mar  9 08:10:14 2021
+  step 98052 lr 0.001 step-time 0.66s wps 1.41K ppl 7.30 gN 8.50 bleu 15.90, Tue Mar  9 08:11:20 2021
+  step 98152 lr 0.001 step-time 0.66s wps 1.40K ppl 7.24 gN 8.74 bleu 15.90, Tue Mar  9 08:12:26 2021
+  step 98252 lr 0.001 step-time 0.67s wps 1.39K ppl 7.55 gN 8.76 bleu 15.90, Tue Mar  9 08:13:34 2021
+  step 98352 lr 0.001 step-time 0.67s wps 1.40K ppl 7.64 gN 8.67 bleu 15.90, Tue Mar  9 08:14:40 2021
+  step 98452 lr 0.001 step-time 0.66s wps 1.41K ppl 7.48 gN 8.72 bleu 15.90, Tue Mar  9 08:15:46 2021

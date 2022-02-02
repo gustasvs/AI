@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Python123\\AI\\multi_digit_number_recognition\\model\\alexnet-3200000-iterations.model"
+all_model_checkpoint_paths: "C:\\Python123\\AI\\multi_digit_number_recognition\\model\\alexnet-3200000-iterations.model"

@@ -1,0 +1,84 @@
+2019-01 unzip - 146992190120 bytes
+	zip   - 13862441611 bytes
+	total rows    - 129386587
+	paired rows   - 26047
+	replaced rows - 15130
+	start time - 2020-11-23 01:46:02.576877
+	end time   - 2020-11-23 06:21:53.554626
+2019-02 unzip - 146992190120 bytes
+	zip   - 14039610048 bytes
+	total rows    - 120645639
+	paired rows   - 22757
+	replaced rows - 12691
+	start time - 2020-11-25 02:14:56.528364
+	end time   - 2020-11-25 06:42:18.173989
+2019-03 unzip - 160466903356 bytes
+	zip   - 14641003798 bytes
+	total rows    - 137650471
+	paired rows   - 24559
+	replaced rows - 11402
+	start time - 2020-11-27 01:06:06.024406
+	end time   - 2020-11-27 05:50:58.518257
+2019-04 unzip - 162900694302 bytes
+	zip   - 15531201485 bytes
+	total rows    - 138473643
+	paired rows   - 24953
+	replaced rows - 11341
+	start time - 2020-11-27 01:06:06.024406
+	end time   - 2020-11-28 08:51:43.938051
+2019-05 unzip - 168064521819 bytes
+	zip   - 14693921454 bytes
+	total rows    - 142463421
+	paired rows   - 28042
+	replaced rows - 12637
+	start time - 2020-11-30 01:41:13.405533
+	end time   - 2020-11-30 07:25:50.665386
+2019-06 unzip - 126130978816 bytes
+	zip   - 15702654694 bytes
+	total rows    - 103000000
+	paired rows   - 21611
+	replaced rows - 10051
+	start time - 2020-12-04 02:06:27.407650
+	end time   - 2020-12-04 06:06:32.735964
+2019-07 unzip - 158213636096 bytes
+	zip   - 14557847725 bytes
+	total rows    - 127000000
+	paired rows   - 27516
+	replaced rows - 12394
+	start time - 2020-12-06 03:00:54.201708
+	end time   - 2020-12-06 11:16:05.523934 
+2019-08 unzip - 186005800740 bytes
+	zip   - 16789284792 bytes
+	total rows    - 146854393
+	paired rows   - 29750
+	replaced rows - 13702
+	start time - 2020-12-09 02:54:56.844703
+	end time   - 2020-12-09 09:28:23.864824
+2019-09 unzip - 179788278625 bytes
+	zip   - 16098345778 bytes
+	total rows    - 137540219
+	paired rows   - 28384
+	replaced rows - 13491
+	start time - 2020-12-10 01:09:35.510647
+	end time   - 2020-12-10 06:50:59.585052
+2019-10 unzip - 189258398377 bytes
+	zip   - 16939811432 bytes
+	total rows    - 145909884
+	paired rows   - 29838
+	replaced rows - 14386
+	start time - 2020-12-13 00:39:19.752610
+	end time   - 2020-12-13 07:31:11.467185
+2019-11 unzip - 178106038339 bytes
+	zip   - 15908488169 bytes
+	total rows    - 138512489
+	paired rows   - 28349
+	replaced rows - 13225
+	start time - 2020-12-16 01:28:45.800533
+	end time   - 2020-12-16 06:31:25.678641
+2019-12 unzip - 186481508352  bytes
+	zip   - 16972484306 bytes
+	total rows    - 144000000
+	paired rows   - 29408
+	replaced rows - 14077
+	start time - 2020-12-18 02:41:16.233833
+	end time   - 2020-12-18 08:57:39.054018

@@ -1,0 +1,32 @@
+python 3.6
+cuDNN 7.4
+CUDA 10.0
+(https://www.tensorflow.org/install/source#gpu)
+
+tensorflow-gpu==1.15.0
+tensorflow==1.3.0
+tflearn==0.5.0
+tqdm==4.52.0
+pandas==1.1.2
+colorama==0.4.4
+python-Levenshtein==0.12.0
+numpy==1.18.5
+opencv-python==4.4.0.46
+pypiwin32==223
+
+
+
+vjoy:
+
+x360ce extract pie drt.exe fails, palaist kad spele jau ir vala un settingi ielikti
+http://www.x360ce.com/
+
+instaleet vjoy
+https://sourceforge.net/projects/vjoystick/files/latest/download
+
+so dll ielikt lokalajaa failaa
+http://vjoystick.sourceforge.net/site/index.php/component/weblinks/weblink/13-uncategorised/11-redirect-vjoy2sdk?task=weblink.go
+
+
+# SOURCE: https://gist.github.com/Flandan/fdadd7046afee83822fcff003ab47087#file-vjoy-py
+

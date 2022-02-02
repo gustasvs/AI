@@ -1,0 +1,13 @@
+# Regex-based list of blacklisted sentences
+# Do not place <unk> here - it's blacklisted by default
+# Format: score modifier [space] phrase
+
+-100 ##->## .* ##->## ^\[\]\([^)]*$
+-100 ##->## .* ##->## ^\[\($
+-100 ##->## .* ##->## ^\[\]$
+-100 ##->## .* ##->## downvoted
+-20 ##->## .* ##->## (?i)i don't know
+-20 ##->## .* ##->## (?i)i'm not sure
+-20 ##->## .* ##->## (?i)i'm sorry
+1 ##->## are you ##->## (?i)I'm
+1 ##->## you( are|'re) ##->## (?i)I'm
